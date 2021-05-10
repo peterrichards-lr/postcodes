@@ -1,0 +1,5 @@
+Bundle-Name: Postcodes API Implementation
+Bundle-Description: Determines the geolocation of UK postcodes
+Bundle-SymbolicName: com.liferay.postcodes.service
+Bundle-Version: 1.0.0
+

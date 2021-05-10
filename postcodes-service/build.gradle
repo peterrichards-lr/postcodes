@@ -1,0 +1,6 @@
+dependencies {
+    compile project(":modules:postcodes:postcodes-api")
+	compileOnly group: "org.springframework", name: "spring-web"
+	compileOnly group: "org.slf4j", name: "slf4j-api"	
+	compileOnly group: "com.liferay.portal", name: "release.dxp.api"
+}
